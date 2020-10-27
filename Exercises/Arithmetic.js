@@ -1,0 +1,11 @@
+var checkArithmeticSubarrays = function(nums, l, r) {
+    var boolArrays = [];
+    var differenceArray = [];
+
+};
+
+nums = [-12,-9,-3,-12,-6,15,20,-25,-20,-15,-10];
+l = [0,1,6,4,8,7];
+r = [4,4,9,7,9,10];
+
+Output = [false,true,false,false,true,true];

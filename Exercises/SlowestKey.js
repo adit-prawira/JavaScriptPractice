@@ -13,6 +13,7 @@ var slowestKey = function(releaseTimes, keysPressed) {
             newData[i] = (releaseTimes[i]);
         }
    }
+   var firstName = "", bitch = " ", ah = " ";
    const maxVal = Math.max.apply(null, newData);
    for(var i = 0; i < newData.length; i++){
        if(newData[i] === maxVal){
